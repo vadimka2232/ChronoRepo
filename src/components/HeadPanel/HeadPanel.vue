@@ -9,13 +9,13 @@
 
 <style lang="scss" scoped>
 .header {
-  background-color: #FFFFFF;
+  background-color: #383737;
   height: 50px;
   display: flex;
   align-items: center;
 }
 .header-title {
-  color: #151617;
+  color: #FFFFFF;
   margin-left: 20px;
   font-size: 1.5rem;
   font-family: Helvetica, Arial, sans-serif;

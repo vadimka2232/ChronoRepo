@@ -16,13 +16,15 @@
 <style scoped>
 .navbar {
     display:flex;
-    flex-direction: column;
-    gap:5px;
-    width:300px;
+    width: 100%;
+    gap:20px;
+    justify-content: center;
+    background-color: #EDEEF0;
+    padding: 15px 0;
 }
 .navbar_title {
     color: #000000;
-    margin-left: 20px;
+
     font-size: 1rem;
     font-family: Helvetica, Arial, sans-serif;
 
