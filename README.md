@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # veloMetrash
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -45,6 +44,4 @@ npm run build
 ```sh
 npm run lint
 ```
-=======
-Пока не заполнено
->>>>>>> e6a30f5fc5fefd0fd9bd3a960e9e69c0897f150e
+
